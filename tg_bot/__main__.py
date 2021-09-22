@@ -20,7 +20,7 @@ from tg_bot.modules.helper_funcs.misc import paginate_modules
 PM_START_TEXT = """
 HEY {}, My Name is {}! 
 
-<b> ❌ Don't Waste Time.❌ 
+❌ Don't Waste Time.❌ 
 
 🦋 I'M Exciusively Created For Movie Play Group 🦋  
 
