@@ -20,7 +20,7 @@ from tg_bot.modules.helper_funcs.misc import paginate_modules
 PM_START_TEXT = """
 HEY {}, My Name is {}! 
 
-<b> ❌ """<b>Don't Waste Time.❌ 
+<b> ❌ Don't Waste Time.❌ 
 
 🦋 I'M Exciusively Created For Movie Play Group 🦋  
 
@@ -28,9 +28,9 @@ HEY {}, My Name is {}!
 
 Join This Channel - @MoviePlayr.
 
-For More Movies And Series Join @MoviePlayr</b>"""
+For More Movies And Series Join @MoviePlayr
 
-**⚡ """<b><u>Keep in mind i'm only work for Movie Play</b></u>""" ⚡**
+**⚡ Keep in mind i'm only work for Movie Play ⚡**
 
 """
 
