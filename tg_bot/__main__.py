@@ -18,15 +18,19 @@ from tg_bot.modules.helper_funcs.chat_status import is_user_admin
 from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
-HEY {}, My Name is {}! ❌ Don't Waste Time.❌ I'M Exciusively Created For Movie Play Group  
+HEY {}, My Name is {}! 
 
-🔱 I'M A Group Manager Bot Owned By 🔱  [Volvex Curio](tg://user?id={}).
+<b> ❌ Don't Waste Time.❌ 
+
+🦋 I'M Exciusively Created For Movie Play Group 🦋  
+
+🔱 I'M A Group Manager Bot Created By 🔱  [Volvex Curio](tg://user?id={}).
 
 Join This Channel - @MoviePlayr.
 
-For More Movies And Series Join @MoviePlayr
+For More Movies And Series Join @MoviePlayr </b>
 
-**⚡ Keep in mind i'm only work for Movie Play ⚡**
+**⚡ <b><u>Keep in mind i'm only work for Movie Play</b></u> ⚡**
 
 """
 
