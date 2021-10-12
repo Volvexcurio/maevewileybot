@@ -24,7 +24,7 @@ PM_START_TEXT = """
 
 *🦋 I'M Exciusively Created For Movie Play Group 🦋*  
 
-*🔱 I'M A Group Manager Bot Created By 🔱  [Volvex Curio](tg://user?id={}).*
+*🔱 I'M A Group Manager Bot Created By 🔱*  [Volvex Curio](tg://user?id={}).
 
 *Join This Channel - @MoviePlayr.*
 
